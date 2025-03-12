@@ -7,11 +7,7 @@ from datetime import datetime
 import time
 import torch
 
-"""
-hughadward123@gmail.com
-2025-03-02
-xigua_trans v0.0.2
-"""
+
 
 
 # 初始化session_state
@@ -64,6 +60,12 @@ st.set_page_config(
     page_icon="🍉",
     layout="wide"
 )
+
+"""
+hughadward123@gmail.com
+2025-03-02
+xigua_trans v0.0.2
+"""
 
 # 页面标题
 st.title("🍉 西瓜转录 - 语音转文字")
