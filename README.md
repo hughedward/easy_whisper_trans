@@ -1,7 +1,7 @@
 # easy_whisper_trans
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/3d818346-ac55-4245-a3ad-59e79e596e48" />
 利用openAi-whisper实现的语音转录文字；
-采用streamlit构建
+采用streamlit构建，完整带依赖版本访问：https://solorspark.xyz/
 
 运行start.sh
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/fbe2ff57-d124-4b6c-a7fd-a597e2d40294" />
